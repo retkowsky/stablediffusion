@@ -12,3 +12,5 @@ Powered by the advanced capabilities of Stable Diffusion 3.5 Large, Stable Image
 Stable Image Core
 
 Leveraging an enhanced version of SDXL, Stable Image Core, delivers exceptional speed and efficiency while maintaining the high-quality output synonymous with Stable Diffusion models.
+
+<img src="animated.gif">
