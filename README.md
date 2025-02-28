@@ -15,6 +15,7 @@ Leveraging an enhanced version of SDXL, Stable Image Core, delivers exceptional 
 <br>
 
 ## Article
+https://techcommunity.microsoft.com/blog/machinelearningblog/introducing-stability-ai-generative-visual-models-to-azure-ai-foundry/4377271
 
 ### Examples
 <img src="animated.gif">
